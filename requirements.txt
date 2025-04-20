@@ -1,0 +1,10 @@
+
+streamlit 
+beautifulsoup4 
+dnspython 
+pandas 
+pillow 
+pypdf2
+python-whois 
+trafilatura
+
